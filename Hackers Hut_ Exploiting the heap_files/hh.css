@@ -1,0 +1,24 @@
+body {
+    background: white;
+    color: black;
+}
+pre {
+    background: #f0f0f0;
+    white-space: pre;
+    width: 100%;
+    border-style: none;
+    border-width: thin;
+    font-family: monospace;
+}
+code {
+    background: #f0f0f0;
+}
+h2 {
+    color: orange;
+}
+h3 {
+    color: green;
+}
+h4 {
+    color: red;
+}
